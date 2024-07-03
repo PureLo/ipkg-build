@@ -1,0 +1,7 @@
+#!/bin/sh
+echo "postinst......"
+
+## 启动程序
+nohup /hello_v1 > /opt/hello.log &
+
+## 清理

@@ -1,0 +1,9 @@
+Package: helloworld
+Version: 0.0.1
+Architecture: x86_64
+Maintainer: lo.fu <lo.fu@vzenith.com>
+Section: base
+Priority: optional
+Description: this is package test.
+Source: bindserver decode 
+

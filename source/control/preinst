@@ -1,0 +1,10 @@
+#!/bin/sh
+echo "preinst......"
+# 错误直接 exit 1, 会取消安装
+# 例 : [ -x /userdata/etc/rawos.sh ] || exit 0
+
+# 环境检查
+# 路径检查
+# 目录检查
+# 版本检查
+# 依赖检查
