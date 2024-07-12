@@ -1,9 +1,9 @@
-Package: helloworld
-Version: 0.0.1
-Architecture: x86_64
+Package: hologram
+Version: 0.0.2
+Architecture: aarch64
 Maintainer: lo.fu <lo.fu@vzenith.com>
 Section: base
 Priority: optional
-Description: this is package test.
-Source: bindserver decode 
+Description: hologram base service
+Source: http://gitlab.vzenith.com/grp_icloud/hologram-base-service
 
